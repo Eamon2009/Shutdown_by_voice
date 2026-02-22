@@ -30,7 +30,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/yourusername/voice-system-control.git
+git clone https://github.com/Eamon2009/Shutdown_by_voice.git
 cd voice-system-control
 Install Dependencies:
 
